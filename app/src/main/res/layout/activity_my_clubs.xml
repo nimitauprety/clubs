@@ -44,7 +44,7 @@
         android:layout_marginBottom="12dp"
         android:background="@drawable/buttons"
         android:padding="20dp"
-        android:text="My Club"
+        android:text="View My Club"
         android:textAllCaps="false"
         android:textColor="@android:color/white"
         android:textSize="18sp"
